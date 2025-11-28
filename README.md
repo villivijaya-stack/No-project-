@@ -1,4 +1,4 @@
-# No-project-
+# Calculator project 
 For student 
 calculator-project-for-student
 The Calculator Project is a basic application designed to perform simple arithmetic operations like Addition, Subtraction, Multiplication, and Division. The main objective of this project is to help students understand the fundamentals of programming logic, user input handling, and mathematical operations in code. import tkinter as tk
